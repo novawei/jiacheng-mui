@@ -1,0 +1,22 @@
+.app {
+	background-color: #ffffff;
+}
+
+.navbar {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.container {
+	padding-top: 60px;
+	padding-bottom: 56px;
+}
+
+.tabbar {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}

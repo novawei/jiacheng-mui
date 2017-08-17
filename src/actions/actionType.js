@@ -1,0 +1,18 @@
+export const C_TAB_SEL_IDX = 'C_TAB_SEL_IDX';
+export const C_NAV_SETTING = 'C_NAV_SETTING';
+
+export const S_LIST_LOADING = 'S_LIST_LOADING';
+export const S_LIST_SUCCESS	= 'S_LIST_SUCCESS';
+export const S_LIST_FAILURE	= 'S_LIST_FAILURE';
+
+export const S_DETAIL_LOADING = 'S_DETAIL_LOADING';
+export const S_DETAIL_SUCCESS	= 'S_DETAIL_SUCCESS';
+export const S_DETAIL_FAILURE	= 'S_DETAIL_FAILURE';
+
+export const D_LIST_LOADING = 'D_LIST_LOADING';
+export const D_LIST_SUCCESS	= 'D_LIST_SUCCESS';
+export const D_LIST_FAILURE	= 'D_LIST_FAILURE';
+
+export const D_DETAIL_LOADING = 'D_DETAIL_LOADING';
+export const D_DETAIL_SUCCESS	= 'D_DETAIL_SUCCESS';
+export const D_DETAIL_FAILURE	= 'D_DETAIL_FAILURE';

@@ -1,0 +1,69 @@
+.school-item {
+  margin: 0px 0px 5px 0px;
+  padding: 0px;
+  width: 100%;
+  position: relative;
+  height: 112px;
+}
+
+.school-item-img {
+  margin: 0px;
+  padding: 0px;
+  background-color: #eaeaea;
+  height: 112px;
+  width: 112px;
+  float: left;
+}
+
+.school-item-content {
+  margin: 0px 0px 0px 122px;
+  padding: 0px;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.school-item-border {
+  height: 1px;
+  position: absolute;
+  bottom: 0px;
+  left: 122px;
+  right: 0px;
+  background-color: #cccccc;
+}
+
+.school-name {
+  font-size: 17px;
+  color: #333333;
+  margin-top: 8px;
+}
+
+.school-price {
+  font-size: 18px;
+  color: #e33333;
+  margin-top: 5px;
+}
+
+.school-hongbao {
+  font-size: 14px;
+  color: #e33333;
+  margin-top: 5px;
+}
+
+.school-gray-text {
+  font-size: 10px;
+  color: #999999;
+}
+
+.school-address {
+  font-size: 14px;
+  color: #999999;
+  margin-top: 5px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.school-detail {
+  margin: 0px;
+  padding: 10px;
+}
